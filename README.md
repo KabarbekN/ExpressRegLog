@@ -13,7 +13,7 @@ Brief project description goes here.
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-project.git
+    git clone https://github.com/KabarbekN/ExpressRegLog.git
     cd your-project
     ```
 
@@ -28,7 +28,7 @@ Brief project description goes here.
 
 4. **Run the Application:**
     ```bash
-    npm start
+    npm run dev
     ```
 
 ## Usage
